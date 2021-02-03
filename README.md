@@ -16,17 +16,17 @@ Experiment.ipynb shows an example about our experiment on MovieLens 1M.
 train_order, valid_order, test_order, movie_dict, user_dict, Tr_rated_dict, Rated_dict, condidate_item = prepare_dataset()
 ```
 
-### Initializing a recommender system
+### Initializing a model
 ```python
 RecSys = HML4Rec(configs, train_order, valid_order, test_order, movie_dict, user_dict, Tr_rated_dict, Rated_dict, condidate_item)
 ```
 
-### Training a recommendation model
+### Training
 ```python
 RecSys.train()
 ```
 
-### generating recommendations and evaluating
+### generating results and evaluating
 ```python
 RecSys.Recommending()
 Show_result()
