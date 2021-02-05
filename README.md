@@ -34,7 +34,7 @@ RecSys.train()
 ```
 
 ### Generating results and evaluating
-Note that, the recommendation results are written on the file: ```Rec_result```, and the evaluation results are on the file: ```Figures```.
+The recommendation results are in the file: ```Rec_result```, and the evaluation results are in the file: ```Figures```.
 
 ```python
 RecSys.Recommending()
