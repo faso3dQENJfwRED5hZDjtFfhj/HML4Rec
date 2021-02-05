@@ -2,7 +2,8 @@
 The source code of paper "HML4Rec: Hierarchical Meta-Learning for Cold-StartRecommendation in Flash-Sale E-commerce" for reproduction.
 
 ## Reproduce Evaulation Results in the Paper
-Experiment.ipynb shows an example about our experiment on MovieLens 1M. 
+Experiment.ipynb gives the code for reproducing our experiment on MovieLens 1M. 
+
 
 ### Requirements
 - python 3.7+
