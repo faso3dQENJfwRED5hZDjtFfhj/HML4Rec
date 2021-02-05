@@ -1,5 +1,5 @@
 # HML4Rec
-The source code of paper "HML4Rec: Hierarchical Meta-Learning for Cold-StartRecommendation in Flash-Sale E-commerce" for reproduction.
+The source code of paper "HML4Rec: Hierarchical Meta-Learning for Cold-Start Recommendation in Flash-Sale E-commerce" for reproduction.
 
 ## Reproduce Evaulation Results in the Paper
 Experiment.ipynb gives the code for reproducing our experiment on MovieLens 1M. 
