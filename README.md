@@ -33,7 +33,7 @@ RecSys = HML4Rec(configs, train_order, valid_order, test_order, movie_dict, user
 RecSys.train()
 ```
 
-### generating results and evaluating
+### Generating results and evaluating
 Note that, the recommendation results are written on the file: ```Rec_result```, and the evaluation results are on the file: ```Figures```.
 
 ```python
